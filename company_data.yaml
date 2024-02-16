@@ -1,0 +1,49 @@
+departments:
+  - name: Engineering
+    employees:
+      - id: 101
+        name: Alice
+        role: Software Engineer
+        salary: 70000
+      - id: 102
+        name: Bob
+        role: DevOps Engineer
+        salary: 65000
+      - id: 103
+        name: Eve
+        role: Data Scientist
+        salary: 72000
+  - name: Human Resources
+    employees:
+      - id: 201
+        name: Carol
+        role: HR Manager
+        salary: 60000
+      - id: 202
+        name: Dave
+        role: Recruiter
+        salary: 50000
+  - name: Marketing
+    employees:
+      - id: 301
+        name: Frank
+        role: Content Creator
+        salary: 55000
+      - id: 302
+        name: Grace
+        role: SEO Specialist
+        salary: 58000
+  - name: Sales
+    employees:
+      - id: 401
+        name: Heidi
+        role: Sales Representative
+        salary: 45000
+      - id: 402
+        name: Ivan
+        role: Account Manager
+        salary: 49000
+      - id: 403
+        name: Judy
+        role: Sales Manager
+        salary: 65000
